@@ -2,7 +2,6 @@
 <h3 align="center">Game Developer (Unity) • Web Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Age-19-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Unity-Game%20Developer-black?style=for-the-badge&logo=unity" />
   <img src="https://img.shields.io/badge/Web-Developer-orange?style=for-the-badge" />
 </p>
@@ -88,18 +87,6 @@ Git • GitHub • Visual Studio • Visual Studio Code
 * 🌐 **Web Project**
   A web application built with Angular / JavaScript
   👉 [https://github.com/Serhatz](https://github.com/Serhatz)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serhatz&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serhatz&theme=tokyonight" />
-</p>
 
 ---
 
