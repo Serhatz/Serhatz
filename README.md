@@ -76,20 +76,6 @@ Git • GitHub • Visual Studio • Visual Studio Code
 
 ---
 
-## 📌 Featured Projects
-
-> You can showcase your projects here
-
-* 🎮 **Unity Game Project**
-  A game developed using Unity and C#
-  👉 [https://github.com/Serhatz](https://github.com/Serhatz)
-
-* 🌐 **Web Project**
-  A web application built with Angular / JavaScript
-  👉 [https://github.com/Serhatz](https://github.com/Serhatz)
-
----
-
 ## 🎯 Goals
 
 * 🎮 Build more advanced Unity game projects
